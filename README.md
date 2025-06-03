@@ -79,6 +79,8 @@ GO
 USE PersonDB;
 GO
 
+### 1. Create database / table
+
 -- Create Table
 CREATE TABLE Persons (
     ID INT IDENTITY(1,1) PRIMARY KEY,
