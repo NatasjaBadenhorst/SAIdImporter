@@ -1,0 +1,151 @@
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.csproj.AssemblyReference.cache
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.csproj.GenerateResource.cache
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.AssemblyInfoInputs.cache
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.AssemblyInfo.cs
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.csproj.CoreCompileInputs.cache
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\SAIdImporter.exe
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\SAIdImporter.deps.json
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\SAIdImporter.runtimeconfig.json
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\SAIdImporter.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\SAIdImporter.pdb
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImpo.F34BA292.Up2Date
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\refint\SAIdImporter.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.pdb
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.genruntimeconfig.cache
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\ref\SAIdImporter.dll
+C:\Users\MichaelWestman\source\repos\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.Form1.resources
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\SAIdImporter.exe
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\SAIdImporter.deps.json
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\SAIdImporter.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\SAIdImporter.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\SAIdImporter.pdb
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.Form1.resources
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.csproj.CopyComplete
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\refint\SAIdImporter.dll
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.pdb
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\SAIdImporter.genruntimeconfig.cache
+C:\Users\User\Documents\Visual Studio 2022\SAIdImporter\SAIdImporter\obj\Debug\net8.0-windows\ref\SAIdImporter.dll
