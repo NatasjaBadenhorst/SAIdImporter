@@ -1,5 +1,5 @@
-﻿using OfficeOpenXml; // For Excel reading (EPPlus)
-using Microsoft.Data.SqlClient; // For SQL Server access
+﻿using OfficeOpenXml; // For Excel reading (EPPlus 8) (excell Nuget package)
+using Microsoft.Data.SqlClient; // For SQL Server access (Microsoft.Data.SqlClient)
 
 namespace SAIdImporter
 {
