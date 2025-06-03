@@ -70,3 +70,23 @@ SAIdImporter is a Windows Forms (.NET) application designed to import South Afri
 ```bash
 git clone https://github.com/NatasjaBadenhorst/SAIdImporter.git
 cd SAIdImporter
+
+-- Create Database
+CREATE DATABASE PersonDB;
+GO
+
+-- Connect to PersonDB
+USE PersonDB;
+GO
+
+-- Create Table
+CREATE TABLE Persons (
+    ID INT IDENTITY(1,1) PRIMARY KEY,
+    FirstName NVARCHAR(100),
+    Surname NVARCHAR(100),
+    IDNumber CHAR(13) UNIQUE
+);
+
+-- Verify data when app is running
+SELECT * FROM Persons
+TRUNCATE TABLE Persons
