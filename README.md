@@ -67,9 +67,11 @@ SAIdImporter is a Windows Forms (.NET) application designed to import South Afri
 
 ### 1. Clone the Repository
 
-```bash
+'' bash
 git clone https://github.com/NatasjaBadenhorst/SAIdImporter.git
 cd SAIdImporter
+
+### 1. Create Database / Table
 
 -- Create Database
 CREATE DATABASE PersonDB;
@@ -78,8 +80,6 @@ GO
 -- Connect to PersonDB
 USE PersonDB;
 GO
-
-### 1. Create database / table
 
 -- Create Table
 CREATE TABLE Persons (
